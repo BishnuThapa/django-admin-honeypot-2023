@@ -1,0 +1,13 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+django = "*"
+django-admin-honeypot-updated-2021 = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
